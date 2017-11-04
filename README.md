@@ -2,7 +2,7 @@
 Convert select text to class name
 
 # Install
-Copy txttoclass.py to your Packages directory
+Copy txttoclass.py to your user Packages directory
 
 # Key Binding
 ```
