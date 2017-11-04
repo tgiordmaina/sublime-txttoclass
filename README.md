@@ -1,5 +1,5 @@
 # sublime-txttoclass
-Convert select text to class name
+Convert selected text to class name
 
 # Install
 Copy txttoclass.py to your user Packages directory
